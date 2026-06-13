@@ -1,3 +1,14 @@
+data/dataset_info.txtDataset: CICIDS2017
+
+File Used:
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+
+Download Source:
+https://www.unb.ca/cic/datasets/ids-2017.html
+
+Note:
+The dataset is not included in this repository due to large file size limitations. Please download it manually and place it in the `data/` folder as `dataset.csv`.
+
 venv/
 __pycache__/
 .DS_Store
